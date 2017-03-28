@@ -1,0 +1,12 @@
+F:\Sources\Unity\LaserDefender\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Sources\Unity\LaserDefender\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Sources\Unity\LaserDefender\Temp\bin\Debug\UnityEditor.dll
+F:\Sources\Unity\LaserDefender\Temp\bin\Debug\UnityEngine.dll
+F:\Sources\Unity\LaserDefender\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Sources\Unity\LaserDefender\Temp\bin\Debug\Mono.Cecil.dll
+F:\Sources\Unity\LaserDefender\Temp\bin\Debug\nunit.framework.dll
+F:\Sources\Unity\LaserDefender\Temp\bin\Debug\Unity.DataContract.dll
+F:\Sources\Unity\LaserDefender\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Sources\Unity\LaserDefender\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+F:\Sources\Unity\LaserDefender\obj\Debug\Assembly-CSharp.dll
+F:\Sources\Unity\LaserDefender\obj\Debug\Assembly-CSharp.pdb
